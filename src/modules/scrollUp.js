@@ -1,6 +1,7 @@
 const scrollUp = () => {
 
-    const btnUp = document.querySelector('.up');
+    const menu = document.querySelector('.top-menu'),
+        btnUp = document.querySelector('.up');
 	    btnUp.style.visibility = 'hidden';
 
 	document.addEventListener('scroll', ()=>{
