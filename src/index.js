@@ -1,4 +1,6 @@
-(() => {
-    const str = 'world!';
-    alert(`Hello ${str}`);
-})()
+'use strict'
+
+import longCall from './modules/longCall';
+
+//заказать обратный звонок
+longCall();
