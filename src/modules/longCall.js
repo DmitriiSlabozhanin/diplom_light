@@ -1,6 +1,4 @@
-const longDistanceCall = () => {
-
-    alert('Hello world');
+const longCall = () => {
 
 };
 
