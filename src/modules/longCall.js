@@ -1,3 +1,5 @@
+'use strict';
+
 const longCall = () => {
     const modalCallback = document.querySelector('.modal-callback'),
 		callbackBtn = document.querySelectorAll('.callback-btn'),
