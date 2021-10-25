@@ -1,3 +1,5 @@
+'use strict';
+
 const mainSlider = () => {
     const mainItem = document.querySelectorAll('.item'),
 		mainText = document.querySelectorAll('.table');
