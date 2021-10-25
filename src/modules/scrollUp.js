@@ -1,3 +1,5 @@
+'use strict';
+
 const scrollUp = () => {
 
     const menu = document.querySelector('.top-menu'),
