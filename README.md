@@ -5,3 +5,4 @@ add of longCall
 add of mainSlider
 add of carusel
 add of blockaccordeon
+add of ajaxForm

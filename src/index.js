@@ -5,6 +5,7 @@ import scrollUp from './modules/scrollUp';
 import mainSlider from './modules/mainSlider';
 import caruselArrows from './modules/caruselArrows';
 import blockAccordeon from './modules/blockAccordeon';
+import sendForm from './modules/sendForm';
 
 
 //заказать обратный звонок
@@ -21,3 +22,6 @@ caruselArrows();
 
 //ЧАВО в виде блока аккордеона
 blockAccordeon();
+
+//AJAX Form
+sendForm();
